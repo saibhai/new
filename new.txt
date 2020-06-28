@@ -1,12 +1,8 @@
-<<<<<<< HEAD
-sitaram
-sitaram
-=======
-rama
-rama\
-raaama
-rama
-raama
-rama
->>>>>>> refs/remotes/origin/master
+
+R
+a
+a
+m
+a
+
 
